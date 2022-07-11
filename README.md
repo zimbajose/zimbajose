@@ -2,6 +2,7 @@
  <img src = "https://dthezntil550i.cloudfront.net/eg/latest/eg2103192203168210003704860/1280_960/f9858e2b-73a7-448a-a2eb-2e268a83ad03.jpg" title="Banner" alt="banner" width=200>
  <div id="badges">
    <a href = "https://www.linkedin.com/in/josé-otávio-custodio-cordini-73a47a22b/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+   <a href ="mailto:luancabral5566@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    
  </div>
 </div>
