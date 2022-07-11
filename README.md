@@ -30,7 +30,7 @@
  </div>
 <h2>I am interested in learning</h2>
 <div>
- <img title="Godot" alt="Godot" src ="https://godotengine.org/themes/godotengine/assets/press/logo_large_color_dark.png" width="80" height = 40> &nbsp;  
+ <img href = "https://www.google.com/search?q=godot+engine&oq=godot+engine&aqs=chrome..69i57.1195j0j1&sourceid=chrome&ie=UTF-8" title="Godot" alt="Godot" src ="https://godotengine.org/themes/godotengine/assets/press/logo_large_color_dark.png" width="80" height = 40> &nbsp;  
  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
  <img src = "https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor" title="C#" alt="C#" width="40" height="40">
  <img src = "https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" title="Python" alt="python" width="40" height="40">
